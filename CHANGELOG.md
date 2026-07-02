@@ -9,8 +9,6 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ### Added
 
-- Documentación de gobernanza adoptada desde la plantilla `project-starter-template-es`: `LICENSE`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, `CHANGELOG.md`, `.editorconfig`, `.gitignore` y plantillas de issues/PR en `.github/`.
-
 ### Changed
 
 ### Deprecated
@@ -25,7 +23,15 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ### Added
 
-- Material de apoyo para los desafíos del Bootcamp Python de Talento Digital (Módulos 2, 3 y 4).
+- Material de apoyo para los desafíos del Bootcamp Python de Talento Digital (Módulos 2, 3 y 4):
+  - Módulo 2 — Fundamentos de Desarrollo Web: HTML/CSS, Bootstrap y JavaScript.
+  - Módulo 3 — Fundamentos de programación en Python: introducción, estructuras de datos y funciones, prueba.
+  - Módulo 4 — Programación avanzada en Python: POO, manejo de excepciones y archivos, prueba.
+- Documentación de gobernanza adoptada desde la plantilla `project-starter-template-es`: `LICENSE`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, `CHANGELOG.md`, `.editorconfig`, `.gitignore` y plantillas de issues/PR en `.github/`.
+
+### Fixed
+
+- README: enlaces corregidos hacia `LICENSE` y `CONTRIBUTING.md`.
 
 <!--
 Enlaces de comparación entre versiones (ajusta a tu repositorio):
