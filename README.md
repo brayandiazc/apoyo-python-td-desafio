@@ -54,7 +54,7 @@ Para comenzar a trabajar con esta apoyo, es necesario tener un navegador web mod
 
 ## Contribuir 🖇️
 
-Si deseas contribuir a esta guía, por favor lee [CONTRIBUTING.md](https://gist.github.com/tu_usuario_github/xxxxxx) para obtener detalles sobre nuestro código de conducta y el proceso para enviar pull requests.
+Si deseas contribuir a esta guía, por favor lee [CONTRIBUTING.md](CONTRIBUTING.md) y el [Código de Conducta](CODE_OF_CONDUCT.md) para obtener detalles sobre el proceso para enviar pull requests.
 
 ## Recursos adicionales 📖
 
@@ -66,7 +66,7 @@ Consulta la sección "Recursos adicionales y siguientes pasos" en la guía para 
 
 ## Licencia 📄
 
-Este proyecto está bajo la licencia MIT License (MIT) - consulta el archivo [LICENSE.md](LICENSE.md) para obtener detalles o visita [MIT License](https://opensource.org/licenses/MIT) para más información.
+Este proyecto está bajo la licencia MIT License (MIT) - consulta el archivo [LICENSE](LICENSE) para obtener detalles o visita [MIT License](https://opensource.org/licenses/MIT) para más información.
 
 ## Agradecimientos 🎁
 

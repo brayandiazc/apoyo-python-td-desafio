@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Repositorio del Proyecto
+    url: "https://github.com/brayandiazc/apoyo-python-td-desafio"
+    about: Consulta el material de apoyo completo
+  - name: Discusiones de la Comunidad
+    url: "https://github.com/brayandiazc/apoyo-python-td-desafio/discussions"
+    about: Únete a las discusiones para hacer preguntas generales
